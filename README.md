@@ -1,3 +1,3 @@
-#mapty app
+# mapty app
 
-App for tracking cycling and running
+App for tracking cycling and running workouts
