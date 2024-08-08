@@ -1,7 +1,7 @@
 {
   "name": "15-mapty",
   "version": "1.0.0",
-  "main": "script.js",
+  "default": "index.js",
   "scripts": {
     "start": "parcel index.html", 
     "build": "parcel build index.html --dist-dir ./dist"
